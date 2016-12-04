@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+/**
+  Demo CSS
+*************************************/
+.layout-mock *:not(.ui-splitbar){
+  background : #eee no-repeat center;
+}
+
